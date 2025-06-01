@@ -1,0 +1,1321 @@
+Date,Category,Qty,Margin
+1/1/2023,Fruits,1500,0.2
+1/1/2023,Dairy,1500,0.05
+1/1/2023,Groceries,3000,0.2
+1/1/2023,Dry Fruits,975,0.2
+1/1/2023,Snacks,4500,0.35
+1/1/2023,Cold drinks,3000,0.05
+1/1/2023,Vegetables,1500,0.2
+1/1/2023,General items(Lays),6000,0.1
+1/1/2023,fast food,6750,0.25
+1/1/2023,fruit juice,1800,0.05
+1/1/2023,tiffins,4500,0.25
+1/2/2023,Fruits,1000,0.2
+1/2/2023,Dairy,1000,0.05
+1/2/2023,Groceries,2000,0.2
+1/2/2023,Dry Fruits,650,0.2
+1/2/2023,Snacks,3000,0.35
+1/2/2023,Cold drinks,2000,0.05
+1/2/2023,Vegetables,1000,0.2
+1/2/2023,General items(Lays),4000,0.1
+1/2/2023,fast food,4500,0.25
+1/2/2023,fruit juice,1200,0.05
+1/2/2023,tiffins,3000,0.25
+1/3/2023,Fruits,1000,0.2
+1/3/2023,Dairy,1000,0.05
+1/3/2023,Groceries,2000,0.2
+1/3/2023,Dry Fruits,650,0.2
+1/3/2023,Snacks,3000,0.35
+1/3/2023,Cold drinks,2000,0.05
+1/3/2023,Vegetables,1000,0.2
+1/3/2023,General items(Lays),4000,0.1
+1/3/2023,fast food,4500,0.25
+1/3/2023,fruit juice,1200,0.05
+1/3/2023,tiffins,3000,0.25
+1/4/2023,Fruits,1000,0.2
+1/4/2023,Dairy,1000,0.05
+1/4/2023,Groceries,2000,0.2
+1/4/2023,Dry Fruits,650,0.2
+1/4/2023,Snacks,3000,0.35
+1/4/2023,Cold drinks,2000,0.05
+1/4/2023,Vegetables,1000,0.2
+1/4/2023,General items(Lays),4000,0.1
+1/4/2023,fast food,4500,0.25
+1/4/2023,fruit juice,1200,0.05
+1/4/2023,tiffins,3000,0.25
+1/5/2023,Fruits,1000,0.2
+1/5/2023,Dairy,1000,0.05
+1/5/2023,Groceries,2000,0.2
+1/5/2023,Dry Fruits,650,0.2
+1/5/2023,Snacks,3000,0.35
+1/5/2023,Cold drinks,2000,0.05
+1/5/2023,Vegetables,1000,0.2
+1/5/2023,General items(Lays),4000,0.1
+1/5/2023,fast food,4500,0.25
+1/5/2023,fruit juice,1200,0.05
+1/5/2023,tiffins,3000,0.25
+1/6/2023,Fruits,1000,0.2
+1/6/2023,Dairy,1000,0.05
+1/6/2023,Groceries,2000,0.2
+1/6/2023,Dry Fruits,650,0.2
+1/6/2023,Snacks,3000,0.35
+1/6/2023,Cold drinks,2000,0.05
+1/6/2023,Vegetables,1000,0.2
+1/6/2023,General items(Lays),4000,0.1
+1/6/2023,fast food,4500,0.25
+1/6/2023,fruit juice,1200,0.05
+1/6/2023,tiffins,3000,0.25
+1/7/2023,Fruits,1500,0.2
+1/7/2023,Dairy,1500,0.05
+1/7/2023,Groceries,3000,0.2
+1/7/2023,Dry Fruits,975,0.2
+1/7/2023,Snacks,4500,0.35
+1/7/2023,Cold drinks,3000,0.05
+1/7/2023,Vegetables,1500,0.2
+1/7/2023,General items(Lays),6000,0.1
+1/7/2023,fast food,6750,0.25
+1/7/2023,fruit juice,1800,0.05
+1/7/2023,tiffins,4500,0.25
+1/8/2023,Fruits,1500,0.2
+1/8/2023,Dairy,1500,0.05
+1/8/2023,Groceries,3000,0.2
+1/8/2023,Dry Fruits,975,0.2
+1/8/2023,Snacks,4500,0.35
+1/8/2023,Cold drinks,3000,0.05
+1/8/2023,Vegetables,1500,0.2
+1/8/2023,General items(Lays),6000,0.1
+1/8/2023,fast food,6750,0.25
+1/8/2023,fruit juice,1800,0.05
+1/8/2023,tiffins,4500,0.25
+1/9/2023,Fruits,1000,0.2
+1/9/2023,Dairy,1000,0.05
+1/9/2023,Groceries,2000,0.2
+1/9/2023,Dry Fruits,650,0.2
+1/9/2023,Snacks,3000,0.35
+1/9/2023,Cold drinks,2000,0.05
+1/9/2023,Vegetables,1000,0.2
+1/9/2023,General items(Lays),4000,0.1
+1/9/2023,fast food,4500,0.25
+1/9/2023,fruit juice,1200,0.05
+1/9/2023,tiffins,3000,0.25
+1/10/2023,Fruits,1000,0.2
+1/10/2023,Dairy,1000,0.05
+1/10/2023,Groceries,2000,0.2
+1/10/2023,Dry Fruits,650,0.2
+1/10/2023,Snacks,3000,0.35
+1/10/2023,Cold drinks,2000,0.05
+1/10/2023,Vegetables,1000,0.2
+1/10/2023,General items(Lays),4000,0.1
+1/10/2023,fast food,4500,0.25
+1/10/2023,fruit juice,1200,0.05
+1/10/2023,tiffins,3000,0.25
+1/11/2023,Fruits,1000,0.2
+1/11/2023,Dairy,1000,0.05
+1/11/2023,Groceries,2000,0.2
+1/11/2023,Dry Fruits,650,0.2
+1/11/2023,Snacks,3000,0.35
+1/11/2023,Cold drinks,2000,0.05
+1/11/2023,Vegetables,1000,0.2
+1/11/2023,General items(Lays),4000,0.1
+1/11/2023,fast food,4500,0.25
+1/11/2023,fruit juice,1200,0.05
+1/11/2023,tiffins,3000,0.25
+1/12/2023,Fruits,1000,0.2
+1/12/2023,Dairy,1000,0.05
+1/12/2023,Groceries,2000,0.2
+1/12/2023,Dry Fruits,650,0.2
+1/12/2023,Snacks,3000,0.35
+1/12/2023,Cold drinks,2000,0.05
+1/12/2023,Vegetables,1000,0.2
+1/12/2023,General items(Lays),4000,0.1
+1/12/2023,fast food,4500,0.25
+1/12/2023,fruit juice,1200,0.05
+1/12/2023,tiffins,3000,0.25
+1/13/2023,Fruits,1000,0.2
+1/13/2023,Dairy,1000,0.05
+1/13/2023,Groceries,2000,0.2
+1/13/2023,Dry Fruits,650,0.2
+1/13/2023,Snacks,3000,0.35
+1/13/2023,Cold drinks,2000,0.05
+1/13/2023,Vegetables,1000,0.2
+1/13/2023,General items(Lays),4000,0.1
+1/13/2023,fast food,4500,0.25
+1/13/2023,fruit juice,1200,0.05
+1/13/2023,tiffins,3000,0.25
+1/14/2023,Fruits,1500,0.2
+1/14/2023,Dairy,1500,0.05
+1/14/2023,Groceries,3000,0.2
+1/14/2023,Dry Fruits,975,0.2
+1/14/2023,Snacks,4500,0.35
+1/14/2023,Cold drinks,3000,0.05
+1/14/2023,Vegetables,1500,0.2
+1/14/2023,General items(Lays),6000,0.1
+1/14/2023,fast food,6750,0.25
+1/14/2023,fruit juice,1800,0.05
+1/14/2023,tiffins,4500,0.25
+1/15/2023,Fruits,1500,0.2
+1/15/2023,Dairy,1500,0.05
+1/15/2023,Groceries,3000,0.2
+1/15/2023,Dry Fruits,975,0.2
+1/15/2023,Snacks,4500,0.35
+1/15/2023,Cold drinks,3000,0.05
+1/15/2023,Vegetables,1500,0.2
+1/15/2023,General items(Lays),6000,0.1
+1/15/2023,fast food,6750,0.25
+1/15/2023,fruit juice,1800,0.05
+1/15/2023,tiffins,4500,0.25
+1/16/2023,Fruits,1000,0.2
+1/16/2023,Dairy,1000,0.05
+1/16/2023,Groceries,2000,0.2
+1/16/2023,Dry Fruits,650,0.2
+1/16/2023,Snacks,3000,0.35
+1/16/2023,Cold drinks,2000,0.05
+1/16/2023,Vegetables,1000,0.2
+1/16/2023,General items(Lays),4000,0.1
+1/16/2023,fast food,4500,0.25
+1/16/2023,fruit juice,1200,0.05
+1/16/2023,tiffins,3000,0.25
+1/17/2023,Fruits,1000,0.2
+1/17/2023,Dairy,1000,0.05
+1/17/2023,Groceries,2000,0.2
+1/17/2023,Dry Fruits,650,0.2
+1/17/2023,Snacks,3000,0.35
+1/17/2023,Cold drinks,2000,0.05
+1/17/2023,Vegetables,1000,0.2
+1/17/2023,General items(Lays),4000,0.1
+1/17/2023,fast food,4500,0.25
+1/17/2023,fruit juice,1200,0.05
+1/17/2023,tiffins,3000,0.25
+1/18/2023,Fruits,1000,0.2
+1/18/2023,Dairy,1000,0.05
+1/18/2023,Groceries,2000,0.2
+1/18/2023,Dry Fruits,650,0.2
+1/18/2023,Snacks,3000,0.35
+1/18/2023,Cold drinks,2000,0.05
+1/18/2023,Vegetables,1000,0.2
+1/18/2023,General items(Lays),4000,0.1
+1/18/2023,fast food,4500,0.25
+1/18/2023,fruit juice,1200,0.05
+1/18/2023,tiffins,3000,0.25
+1/19/2023,Fruits,1000,0.2
+1/19/2023,Dairy,1000,0.05
+1/19/2023,Groceries,2000,0.2
+1/19/2023,Dry Fruits,650,0.2
+1/19/2023,Snacks,3000,0.35
+1/19/2023,Cold drinks,2000,0.05
+1/19/2023,Vegetables,1000,0.2
+1/19/2023,General items(Lays),4000,0.1
+1/19/2023,fast food,4500,0.25
+1/19/2023,fruit juice,1200,0.05
+1/19/2023,tiffins,3000,0.25
+1/20/2023,Fruits,1000,0.2
+1/20/2023,Dairy,1000,0.05
+1/20/2023,Groceries,2000,0.2
+1/20/2023,Dry Fruits,650,0.2
+1/20/2023,Snacks,3000,0.35
+1/20/2023,Cold drinks,2000,0.05
+1/20/2023,Vegetables,1000,0.2
+1/20/2023,General items(Lays),4000,0.1
+1/20/2023,fast food,4500,0.25
+1/20/2023,fruit juice,1200,0.05
+1/20/2023,tiffins,3000,0.25
+1/21/2023,Fruits,1500,0.2
+1/21/2023,Dairy,1500,0.05
+1/21/2023,Groceries,3000,0.2
+1/21/2023,Dry Fruits,975,0.2
+1/21/2023,Snacks,4500,0.35
+1/21/2023,Cold drinks,3000,0.05
+1/21/2023,Vegetables,1500,0.2
+1/21/2023,General items(Lays),6000,0.1
+1/21/2023,fast food,6750,0.25
+1/21/2023,fruit juice,1800,0.05
+1/21/2023,tiffins,4500,0.25
+1/22/2023,Fruits,1500,0.2
+1/22/2023,Dairy,1500,0.05
+1/22/2023,Groceries,3000,0.2
+1/22/2023,Dry Fruits,975,0.2
+1/22/2023,Snacks,4500,0.35
+1/22/2023,Cold drinks,3000,0.05
+1/22/2023,Vegetables,1500,0.2
+1/22/2023,General items(Lays),6000,0.1
+1/22/2023,fast food,6750,0.25
+1/22/2023,fruit juice,1800,0.05
+1/22/2023,tiffins,4500,0.25
+1/23/2023,Fruits,1000,0.2
+1/23/2023,Dairy,1000,0.05
+1/23/2023,Groceries,2000,0.2
+1/23/2023,Dry Fruits,650,0.2
+1/23/2023,Snacks,3000,0.35
+1/23/2023,Cold drinks,2000,0.05
+1/23/2023,Vegetables,1000,0.2
+1/23/2023,General items(Lays),4000,0.1
+1/23/2023,fast food,4500,0.25
+1/23/2023,fruit juice,1200,0.05
+1/23/2023,tiffins,3000,0.25
+1/24/2023,Fruits,1000,0.2
+1/24/2023,Dairy,1000,0.05
+1/24/2023,Groceries,2000,0.2
+1/24/2023,Dry Fruits,650,0.2
+1/24/2023,Snacks,3000,0.35
+1/24/2023,Cold drinks,2000,0.05
+1/24/2023,Vegetables,1000,0.2
+1/24/2023,General items(Lays),4000,0.1
+1/24/2023,fast food,4500,0.25
+1/24/2023,fruit juice,1200,0.05
+1/24/2023,tiffins,3000,0.25
+1/25/2023,Fruits,1000,0.2
+1/25/2023,Dairy,1000,0.05
+1/25/2023,Groceries,2000,0.2
+1/25/2023,Dry Fruits,650,0.2
+1/25/2023,Snacks,3000,0.35
+1/25/2023,Cold drinks,2000,0.05
+1/25/2023,Vegetables,1000,0.2
+1/25/2023,General items(Lays),4000,0.1
+1/25/2023,fast food,4500,0.25
+1/25/2023,fruit juice,1200,0.05
+1/25/2023,tiffins,3000,0.25
+1/26/2023,Fruits,1000,0.2
+1/26/2023,Dairy,1000,0.05
+1/26/2023,Groceries,2000,0.2
+1/26/2023,Dry Fruits,650,0.2
+1/26/2023,Snacks,3000,0.35
+1/26/2023,Cold drinks,2000,0.05
+1/26/2023,Vegetables,1000,0.2
+1/26/2023,General items(Lays),4000,0.1
+1/26/2023,fast food,4500,0.25
+1/26/2023,fruit juice,1200,0.05
+1/26/2023,tiffins,3000,0.25
+1/27/2023,Fruits,1000,0.2
+1/27/2023,Dairy,1000,0.05
+1/27/2023,Groceries,2000,0.2
+1/27/2023,Dry Fruits,650,0.2
+1/27/2023,Snacks,3000,0.35
+1/27/2023,Cold drinks,2000,0.05
+1/27/2023,Vegetables,1000,0.2
+1/27/2023,General items(Lays),4000,0.1
+1/27/2023,fast food,4500,0.25
+1/27/2023,fruit juice,1200,0.05
+1/27/2023,tiffins,3000,0.25
+1/28/2023,Fruits,1500,0.2
+1/28/2023,Dairy,1500,0.05
+1/28/2023,Groceries,3000,0.2
+1/28/2023,Dry Fruits,975,0.2
+1/28/2023,Snacks,4500,0.35
+1/28/2023,Cold drinks,3000,0.05
+1/28/2023,Vegetables,1500,0.2
+1/28/2023,General items(Lays),6000,0.1
+1/28/2023,fast food,6750,0.25
+1/28/2023,fruit juice,1800,0.05
+1/28/2023,tiffins,4500,0.25
+1/29/2023,Fruits,1500,0.2
+1/29/2023,Dairy,1500,0.05
+1/29/2023,Groceries,3000,0.2
+1/29/2023,Dry Fruits,975,0.2
+1/29/2023,Snacks,4500,0.35
+1/29/2023,Cold drinks,3000,0.05
+1/29/2023,Vegetables,1500,0.2
+1/29/2023,General items(Lays),6000,0.1
+1/29/2023,fast food,6750,0.25
+1/29/2023,fruit juice,1800,0.05
+1/29/2023,tiffins,4500,0.25
+1/30/2023,Fruits,1000,0.2
+1/30/2023,Dairy,1000,0.05
+1/30/2023,Groceries,2000,0.2
+1/30/2023,Dry Fruits,650,0.2
+1/30/2023,Snacks,3000,0.35
+1/30/2023,Cold drinks,2000,0.05
+1/30/2023,Vegetables,1000,0.2
+1/30/2023,General items(Lays),4000,0.1
+1/30/2023,fast food,4500,0.25
+1/30/2023,fruit juice,1200,0.05
+1/30/2023,tiffins,3000,0.25
+1/31/2023,Fruits,1000,0.2
+1/31/2023,Dairy,1000,0.05
+1/31/2023,Groceries,2000,0.2
+1/31/2023,Dry Fruits,650,0.2
+1/31/2023,Snacks,3000,0.35
+1/31/2023,Cold drinks,2000,0.05
+1/31/2023,Vegetables,1000,0.2
+1/31/2023,General items(Lays),4000,0.1
+1/31/2023,fast food,4500,0.25
+1/31/2023,fruit juice,1200,0.05
+1/31/2023,tiffins,3000,0.25
+2/1/2023,Fruits,1000,0.2
+2/1/2023,Dairy,1000,0.05
+2/1/2023,Groceries,2000,0.2
+2/1/2023,Dry Fruits,650,0.2
+2/1/2023,Snacks,3000,0.35
+2/1/2023,Cold drinks,2000,0.05
+2/1/2023,Vegetables,1000,0.2
+2/1/2023,General items(Lays),4000,0.1
+2/1/2023,fast food,4500,0.25
+2/1/2023,fruit juice,1200,0.05
+2/1/2023,tiffins,3000,0.25
+2/2/2023,Fruits,1000,0.2
+2/2/2023,Dairy,1000,0.05
+2/2/2023,Groceries,2000,0.2
+2/2/2023,Dry Fruits,650,0.2
+2/2/2023,Snacks,3000,0.35
+2/2/2023,Cold drinks,2000,0.05
+2/2/2023,Vegetables,1000,0.2
+2/2/2023,General items(Lays),4000,0.1
+2/2/2023,fast food,4500,0.25
+2/2/2023,fruit juice,1200,0.05
+2/2/2023,tiffins,3000,0.25
+2/3/2023,Fruits,1000,0.2
+2/3/2023,Dairy,1000,0.05
+2/3/2023,Groceries,2000,0.2
+2/3/2023,Dry Fruits,650,0.2
+2/3/2023,Snacks,3000,0.35
+2/3/2023,Cold drinks,2000,0.05
+2/3/2023,Vegetables,1000,0.2
+2/3/2023,General items(Lays),4000,0.1
+2/3/2023,fast food,4500,0.25
+2/3/2023,fruit juice,1200,0.05
+2/3/2023,tiffins,3000,0.25
+2/4/2023,Fruits,1500,0.2
+2/4/2023,Dairy,1500,0.05
+2/4/2023,Groceries,3000,0.2
+2/4/2023,Dry Fruits,975,0.2
+2/4/2023,Snacks,4500,0.35
+2/4/2023,Cold drinks,3000,0.05
+2/4/2023,Vegetables,1500,0.2
+2/4/2023,General items(Lays),6000,0.1
+2/4/2023,fast food,6750,0.25
+2/4/2023,fruit juice,1800,0.05
+2/4/2023,tiffins,4500,0.25
+2/5/2023,Fruits,1500,0.2
+2/5/2023,Dairy,1500,0.05
+2/5/2023,Groceries,3000,0.2
+2/5/2023,Dry Fruits,975,0.2
+2/5/2023,Snacks,4500,0.35
+2/5/2023,Cold drinks,3000,0.05
+2/5/2023,Vegetables,1500,0.2
+2/5/2023,General items(Lays),6000,0.1
+2/5/2023,fast food,6750,0.25
+2/5/2023,fruit juice,1800,0.05
+2/5/2023,tiffins,4500,0.25
+2/6/2023,Fruits,1000,0.2
+2/6/2023,Dairy,1000,0.05
+2/6/2023,Groceries,2000,0.2
+2/6/2023,Dry Fruits,650,0.2
+2/6/2023,Snacks,3000,0.35
+2/6/2023,Cold drinks,2000,0.05
+2/6/2023,Vegetables,1000,0.2
+2/6/2023,General items(Lays),4000,0.1
+2/6/2023,fast food,4500,0.25
+2/6/2023,fruit juice,1200,0.05
+2/6/2023,tiffins,3000,0.25
+2/7/2023,Fruits,1000,0.2
+2/7/2023,Dairy,1000,0.05
+2/7/2023,Groceries,2000,0.2
+2/7/2023,Dry Fruits,650,0.2
+2/7/2023,Snacks,3000,0.35
+2/7/2023,Cold drinks,2000,0.05
+2/7/2023,Vegetables,1000,0.2
+2/7/2023,General items(Lays),4000,0.1
+2/7/2023,fast food,4500,0.25
+2/7/2023,fruit juice,1200,0.05
+2/7/2023,tiffins,3000,0.25
+2/8/2023,Fruits,1000,0.2
+2/8/2023,Dairy,1000,0.05
+2/8/2023,Groceries,2000,0.2
+2/8/2023,Dry Fruits,650,0.2
+2/8/2023,Snacks,3000,0.35
+2/8/2023,Cold drinks,2000,0.05
+2/8/2023,Vegetables,1000,0.2
+2/8/2023,General items(Lays),4000,0.1
+2/8/2023,fast food,4500,0.25
+2/8/2023,fruit juice,1200,0.05
+2/8/2023,tiffins,3000,0.25
+2/9/2023,Fruits,1000,0.2
+2/9/2023,Dairy,1000,0.05
+2/9/2023,Groceries,2000,0.2
+2/9/2023,Dry Fruits,650,0.2
+2/9/2023,Snacks,3000,0.35
+2/9/2023,Cold drinks,2000,0.05
+2/9/2023,Vegetables,1000,0.2
+2/9/2023,General items(Lays),4000,0.1
+2/9/2023,fast food,4500,0.25
+2/9/2023,fruit juice,1200,0.05
+2/9/2023,tiffins,3000,0.25
+2/10/2023,Fruits,1000,0.2
+2/10/2023,Dairy,1000,0.05
+2/10/2023,Groceries,2000,0.2
+2/10/2023,Dry Fruits,650,0.2
+2/10/2023,Snacks,3000,0.35
+2/10/2023,Cold drinks,2000,0.05
+2/10/2023,Vegetables,1000,0.2
+2/10/2023,General items(Lays),4000,0.1
+2/10/2023,fast food,4500,0.25
+2/10/2023,fruit juice,1200,0.05
+2/10/2023,tiffins,3000,0.25
+2/11/2023,Fruits,1500,0.2
+2/11/2023,Dairy,1500,0.05
+2/11/2023,Groceries,3000,0.2
+2/11/2023,Dry Fruits,975,0.2
+2/11/2023,Snacks,4500,0.35
+2/11/2023,Cold drinks,3000,0.05
+2/11/2023,Vegetables,1500,0.2
+2/11/2023,General items(Lays),6000,0.1
+2/11/2023,fast food,6750,0.25
+2/11/2023,fruit juice,1800,0.05
+2/11/2023,tiffins,4500,0.25
+2/12/2023,Fruits,1500,0.2
+2/12/2023,Dairy,1500,0.05
+2/12/2023,Groceries,3000,0.2
+2/12/2023,Dry Fruits,975,0.2
+2/12/2023,Snacks,4500,0.35
+2/12/2023,Cold drinks,3000,0.05
+2/12/2023,Vegetables,1500,0.2
+2/12/2023,General items(Lays),6000,0.1
+2/12/2023,fast food,6750,0.25
+2/12/2023,fruit juice,1800,0.05
+2/12/2023,tiffins,4500,0.25
+2/13/2023,Fruits,1000,0.2
+2/13/2023,Dairy,1000,0.05
+2/13/2023,Groceries,2000,0.2
+2/13/2023,Dry Fruits,650,0.2
+2/13/2023,Snacks,3000,0.35
+2/13/2023,Cold drinks,2000,0.05
+2/13/2023,Vegetables,1000,0.2
+2/13/2023,General items(Lays),4000,0.1
+2/13/2023,fast food,4500,0.25
+2/13/2023,fruit juice,1200,0.05
+2/13/2023,tiffins,3000,0.25
+2/14/2023,Fruits,1000,0.2
+2/14/2023,Dairy,1000,0.05
+2/14/2023,Groceries,2000,0.2
+2/14/2023,Dry Fruits,650,0.2
+2/14/2023,Snacks,3000,0.35
+2/14/2023,Cold drinks,2000,0.05
+2/14/2023,Vegetables,1000,0.2
+2/14/2023,General items(Lays),4000,0.1
+2/14/2023,fast food,4500,0.25
+2/14/2023,fruit juice,1200,0.05
+2/14/2023,tiffins,3000,0.25
+2/15/2023,Fruits,1000,0.2
+2/15/2023,Dairy,1000,0.05
+2/15/2023,Groceries,2000,0.2
+2/15/2023,Dry Fruits,650,0.2
+2/15/2023,Snacks,3000,0.35
+2/15/2023,Cold drinks,2000,0.05
+2/15/2023,Vegetables,1000,0.2
+2/15/2023,General items(Lays),4000,0.1
+2/15/2023,fast food,4500,0.25
+2/15/2023,fruit juice,1200,0.05
+2/15/2023,tiffins,3000,0.25
+2/16/2023,Fruits,1000,0.2
+2/16/2023,Dairy,1000,0.05
+2/16/2023,Groceries,2000,0.2
+2/16/2023,Dry Fruits,650,0.2
+2/16/2023,Snacks,3000,0.35
+2/16/2023,Cold drinks,2000,0.05
+2/16/2023,Vegetables,1000,0.2
+2/16/2023,General items(Lays),4000,0.1
+2/16/2023,fast food,4500,0.25
+2/16/2023,fruit juice,1200,0.05
+2/16/2023,tiffins,3000,0.25
+2/17/2023,Fruits,1000,0.2
+2/17/2023,Dairy,1000,0.05
+2/17/2023,Groceries,2000,0.2
+2/17/2023,Dry Fruits,650,0.2
+2/17/2023,Snacks,3000,0.35
+2/17/2023,Cold drinks,2000,0.05
+2/17/2023,Vegetables,1000,0.2
+2/17/2023,General items(Lays),4000,0.1
+2/17/2023,fast food,4500,0.25
+2/17/2023,fruit juice,1200,0.05
+2/17/2023,tiffins,3000,0.25
+2/18/2023,Fruits,1500,0.2
+2/18/2023,Dairy,1500,0.05
+2/18/2023,Groceries,3000,0.2
+2/18/2023,Dry Fruits,975,0.2
+2/18/2023,Snacks,4500,0.35
+2/18/2023,Cold drinks,3000,0.05
+2/18/2023,Vegetables,1500,0.2
+2/18/2023,General items(Lays),6000,0.1
+2/18/2023,fast food,6750,0.25
+2/18/2023,fruit juice,1800,0.05
+2/18/2023,tiffins,4500,0.25
+2/19/2023,Fruits,1500,0.2
+2/19/2023,Dairy,1500,0.05
+2/19/2023,Groceries,3000,0.2
+2/19/2023,Dry Fruits,975,0.2
+2/19/2023,Snacks,4500,0.35
+2/19/2023,Cold drinks,3000,0.05
+2/19/2023,Vegetables,1500,0.2
+2/19/2023,General items(Lays),6000,0.1
+2/19/2023,fast food,6750,0.25
+2/19/2023,fruit juice,1800,0.05
+2/19/2023,tiffins,4500,0.25
+2/20/2023,Fruits,1000,0.2
+2/20/2023,Dairy,1000,0.05
+2/20/2023,Groceries,2000,0.2
+2/20/2023,Dry Fruits,650,0.2
+2/20/2023,Snacks,3000,0.35
+2/20/2023,Cold drinks,2000,0.05
+2/20/2023,Vegetables,1000,0.2
+2/20/2023,General items(Lays),4000,0.1
+2/20/2023,fast food,4500,0.25
+2/20/2023,fruit juice,1200,0.05
+2/20/2023,tiffins,3000,0.25
+2/21/2023,Fruits,1000,0.2
+2/21/2023,Dairy,1000,0.05
+2/21/2023,Groceries,2000,0.2
+2/21/2023,Dry Fruits,650,0.2
+2/21/2023,Snacks,3000,0.35
+2/21/2023,Cold drinks,2000,0.05
+2/21/2023,Vegetables,1000,0.2
+2/21/2023,General items(Lays),4000,0.1
+2/21/2023,fast food,4500,0.25
+2/21/2023,fruit juice,1200,0.05
+2/21/2023,tiffins,3000,0.25
+2/22/2023,Fruits,1000,0.2
+2/22/2023,Dairy,1000,0.05
+2/22/2023,Groceries,2000,0.2
+2/22/2023,Dry Fruits,650,0.2
+2/22/2023,Snacks,3000,0.35
+2/22/2023,Cold drinks,2000,0.05
+2/22/2023,Vegetables,1000,0.2
+2/22/2023,General items(Lays),4000,0.1
+2/22/2023,fast food,4500,0.25
+2/22/2023,fruit juice,1200,0.05
+2/22/2023,tiffins,3000,0.25
+2/23/2023,Fruits,1000,0.2
+2/23/2023,Dairy,1000,0.05
+2/23/2023,Groceries,2000,0.2
+2/23/2023,Dry Fruits,650,0.2
+2/23/2023,Snacks,3000,0.35
+2/23/2023,Cold drinks,2000,0.05
+2/23/2023,Vegetables,1000,0.2
+2/23/2023,General items(Lays),4000,0.1
+2/23/2023,fast food,4500,0.25
+2/23/2023,fruit juice,1200,0.05
+2/23/2023,tiffins,3000,0.25
+2/24/2023,Fruits,1000,0.2
+2/24/2023,Dairy,1000,0.05
+2/24/2023,Groceries,2000,0.2
+2/24/2023,Dry Fruits,650,0.2
+2/24/2023,Snacks,3000,0.35
+2/24/2023,Cold drinks,2000,0.05
+2/24/2023,Vegetables,1000,0.2
+2/24/2023,General items(Lays),4000,0.1
+2/24/2023,fast food,4500,0.25
+2/24/2023,fruit juice,1200,0.05
+2/24/2023,tiffins,3000,0.25
+2/25/2023,Fruits,1500,0.2
+2/25/2023,Dairy,1500,0.05
+2/25/2023,Groceries,3000,0.2
+2/25/2023,Dry Fruits,975,0.2
+2/25/2023,Snacks,4500,0.35
+2/25/2023,Cold drinks,3000,0.05
+2/25/2023,Vegetables,1500,0.2
+2/25/2023,General items(Lays),6000,0.1
+2/25/2023,fast food,6750,0.25
+2/25/2023,fruit juice,1800,0.05
+2/25/2023,tiffins,4500,0.25
+2/26/2023,Fruits,1500,0.2
+2/26/2023,Dairy,1500,0.05
+2/26/2023,Groceries,3000,0.2
+2/26/2023,Dry Fruits,975,0.2
+2/26/2023,Snacks,4500,0.35
+2/26/2023,Cold drinks,3000,0.05
+2/26/2023,Vegetables,1500,0.2
+2/26/2023,General items(Lays),6000,0.1
+2/26/2023,fast food,6750,0.25
+2/26/2023,fruit juice,1800,0.05
+2/26/2023,tiffins,4500,0.25
+2/27/2023,Fruits,1000,0.2
+2/27/2023,Dairy,1000,0.05
+2/27/2023,Groceries,2000,0.2
+2/27/2023,Dry Fruits,650,0.2
+2/27/2023,Snacks,3000,0.35
+2/27/2023,Cold drinks,2000,0.05
+2/27/2023,Vegetables,1000,0.2
+2/27/2023,General items(Lays),4000,0.1
+2/27/2023,fast food,4500,0.25
+2/27/2023,fruit juice,1200,0.05
+2/27/2023,tiffins,3000,0.25
+2/28/2023,Fruits,1000,0.2
+2/28/2023,Dairy,1000,0.05
+2/28/2023,Groceries,2000,0.2
+2/28/2023,Dry Fruits,650,0.2
+2/28/2023,Snacks,3000,0.35
+2/28/2023,Cold drinks,2000,0.05
+2/28/2023,Vegetables,1000,0.2
+2/28/2023,General items(Lays),4000,0.1
+2/28/2023,fast food,4500,0.25
+2/28/2023,fruit juice,1200,0.05
+2/28/2023,tiffins,3000,0.25
+3/1/2023,Fruits,1000,0.2
+3/1/2023,Dairy,1000,0.05
+3/1/2023,Groceries,2000,0.2
+3/1/2023,Dry Fruits,650,0.2
+3/1/2023,Snacks,3000,0.35
+3/1/2023,Cold drinks,2000,0.05
+3/1/2023,Vegetables,1000,0.2
+3/1/2023,General items(Lays),4000,0.1
+3/1/2023,fast food,4500,0.25
+3/1/2023,fruit juice,1200,0.05
+3/1/2023,tiffins,3000,0.25
+3/2/2023,Fruits,1000,0.2
+3/2/2023,Dairy,1000,0.05
+3/2/2023,Groceries,2000,0.2
+3/2/2023,Dry Fruits,650,0.2
+3/2/2023,Snacks,3000,0.35
+3/2/2023,Cold drinks,2000,0.05
+3/2/2023,Vegetables,1000,0.2
+3/2/2023,General items(Lays),4000,0.1
+3/2/2023,fast food,4500,0.25
+3/2/2023,fruit juice,1200,0.05
+3/2/2023,tiffins,3000,0.25
+3/3/2023,Fruits,1000,0.2
+3/3/2023,Dairy,1000,0.05
+3/3/2023,Groceries,2000,0.2
+3/3/2023,Dry Fruits,650,0.2
+3/3/2023,Snacks,3000,0.35
+3/3/2023,Cold drinks,2000,0.05
+3/3/2023,Vegetables,1000,0.2
+3/3/2023,General items(Lays),4000,0.1
+3/3/2023,fast food,4500,0.25
+3/3/2023,fruit juice,1200,0.05
+3/3/2023,tiffins,3000,0.25
+3/4/2023,Fruits,1500,0.2
+3/4/2023,Dairy,1500,0.05
+3/4/2023,Groceries,3000,0.2
+3/4/2023,Dry Fruits,975,0.2
+3/4/2023,Snacks,4500,0.35
+3/4/2023,Cold drinks,3000,0.05
+3/4/2023,Vegetables,1500,0.2
+3/4/2023,General items(Lays),6000,0.1
+3/4/2023,fast food,6750,0.25
+3/4/2023,fruit juice,1800,0.05
+3/4/2023,tiffins,4500,0.25
+3/5/2023,Fruits,1500,0.2
+3/5/2023,Dairy,1500,0.05
+3/5/2023,Groceries,3000,0.2
+3/5/2023,Dry Fruits,975,0.2
+3/5/2023,Snacks,4500,0.35
+3/5/2023,Cold drinks,3000,0.05
+3/5/2023,Vegetables,1500,0.2
+3/5/2023,General items(Lays),6000,0.1
+3/5/2023,fast food,6750,0.25
+3/5/2023,fruit juice,1800,0.05
+3/5/2023,tiffins,4500,0.25
+3/6/2023,Fruits,1000,0.2
+3/6/2023,Dairy,1000,0.05
+3/6/2023,Groceries,2000,0.2
+3/6/2023,Dry Fruits,650,0.2
+3/6/2023,Snacks,3000,0.35
+3/6/2023,Cold drinks,2000,0.05
+3/6/2023,Vegetables,1000,0.2
+3/6/2023,General items(Lays),4000,0.1
+3/6/2023,fast food,4500,0.25
+3/6/2023,fruit juice,1200,0.05
+3/6/2023,tiffins,3000,0.25
+3/7/2023,Fruits,1000,0.2
+3/7/2023,Dairy,1000,0.05
+3/7/2023,Groceries,2000,0.2
+3/7/2023,Dry Fruits,650,0.2
+3/7/2023,Snacks,3000,0.35
+3/7/2023,Cold drinks,2000,0.05
+3/7/2023,Vegetables,1000,0.2
+3/7/2023,General items(Lays),4000,0.1
+3/7/2023,fast food,4500,0.25
+3/7/2023,fruit juice,1200,0.05
+3/7/2023,tiffins,3000,0.25
+3/8/2023,Fruits,1000,0.2
+3/8/2023,Dairy,1000,0.05
+3/8/2023,Groceries,2000,0.2
+3/8/2023,Dry Fruits,650,0.2
+3/8/2023,Snacks,3000,0.35
+3/8/2023,Cold drinks,2000,0.05
+3/8/2023,Vegetables,1000,0.2
+3/8/2023,General items(Lays),4000,0.1
+3/8/2023,fast food,4500,0.25
+3/8/2023,fruit juice,1200,0.05
+3/8/2023,tiffins,3000,0.25
+3/9/2023,Fruits,1000,0.2
+3/9/2023,Dairy,1000,0.05
+3/9/2023,Groceries,2000,0.2
+3/9/2023,Dry Fruits,650,0.2
+3/9/2023,Snacks,3000,0.35
+3/9/2023,Cold drinks,2000,0.05
+3/9/2023,Vegetables,1000,0.2
+3/9/2023,General items(Lays),4000,0.1
+3/9/2023,fast food,4500,0.25
+3/9/2023,fruit juice,1200,0.05
+3/9/2023,tiffins,3000,0.25
+3/10/2023,Fruits,1000,0.2
+3/10/2023,Dairy,1000,0.05
+3/10/2023,Groceries,2000,0.2
+3/10/2023,Dry Fruits,650,0.2
+3/10/2023,Snacks,3000,0.35
+3/10/2023,Cold drinks,2000,0.05
+3/10/2023,Vegetables,1000,0.2
+3/10/2023,General items(Lays),4000,0.1
+3/10/2023,fast food,4500,0.25
+3/10/2023,fruit juice,1200,0.05
+3/10/2023,tiffins,3000,0.25
+3/11/2023,Fruits,1500,0.2
+3/11/2023,Dairy,1500,0.05
+3/11/2023,Groceries,3000,0.2
+3/11/2023,Dry Fruits,975,0.2
+3/11/2023,Snacks,4500,0.35
+3/11/2023,Cold drinks,3000,0.05
+3/11/2023,Vegetables,1500,0.2
+3/11/2023,General items(Lays),6000,0.1
+3/11/2023,fast food,6750,0.25
+3/11/2023,fruit juice,1800,0.05
+3/11/2023,tiffins,4500,0.25
+3/12/2023,Fruits,1500,0.2
+3/12/2023,Dairy,1500,0.05
+3/12/2023,Groceries,3000,0.2
+3/12/2023,Dry Fruits,975,0.2
+3/12/2023,Snacks,4500,0.35
+3/12/2023,Cold drinks,3000,0.05
+3/12/2023,Vegetables,1500,0.2
+3/12/2023,General items(Lays),6000,0.1
+3/12/2023,fast food,6750,0.25
+3/12/2023,fruit juice,1800,0.05
+3/12/2023,tiffins,4500,0.25
+3/13/2023,Fruits,1000,0.2
+3/13/2023,Dairy,1000,0.05
+3/13/2023,Groceries,2000,0.2
+3/13/2023,Dry Fruits,650,0.2
+3/13/2023,Snacks,3000,0.35
+3/13/2023,Cold drinks,2000,0.05
+3/13/2023,Vegetables,1000,0.2
+3/13/2023,General items(Lays),4000,0.1
+3/13/2023,fast food,4500,0.25
+3/13/2023,fruit juice,1200,0.05
+3/13/2023,tiffins,3000,0.25
+3/14/2023,Fruits,1000,0.2
+3/14/2023,Dairy,1000,0.05
+3/14/2023,Groceries,2000,0.2
+3/14/2023,Dry Fruits,650,0.2
+3/14/2023,Snacks,3000,0.35
+3/14/2023,Cold drinks,2000,0.05
+3/14/2023,Vegetables,1000,0.2
+3/14/2023,General items(Lays),4000,0.1
+3/14/2023,fast food,4500,0.25
+3/14/2023,fruit juice,1200,0.05
+3/14/2023,tiffins,3000,0.25
+3/15/2023,Fruits,1000,0.2
+3/15/2023,Dairy,1000,0.05
+3/15/2023,Groceries,2000,0.2
+3/15/2023,Dry Fruits,650,0.2
+3/15/2023,Snacks,3000,0.35
+3/15/2023,Cold drinks,2000,0.05
+3/15/2023,Vegetables,1000,0.2
+3/15/2023,General items(Lays),4000,0.1
+3/15/2023,fast food,4500,0.25
+3/15/2023,fruit juice,1200,0.05
+3/15/2023,tiffins,3000,0.25
+3/16/2023,Fruits,1000,0.2
+3/16/2023,Dairy,1000,0.05
+3/16/2023,Groceries,2000,0.2
+3/16/2023,Dry Fruits,650,0.2
+3/16/2023,Snacks,3000,0.35
+3/16/2023,Cold drinks,2000,0.05
+3/16/2023,Vegetables,1000,0.2
+3/16/2023,General items(Lays),4000,0.1
+3/16/2023,fast food,4500,0.25
+3/16/2023,fruit juice,1200,0.05
+3/16/2023,tiffins,3000,0.25
+3/17/2023,Fruits,1000,0.2
+3/17/2023,Dairy,1000,0.05
+3/17/2023,Groceries,2000,0.2
+3/17/2023,Dry Fruits,650,0.2
+3/17/2023,Snacks,3000,0.35
+3/17/2023,Cold drinks,2000,0.05
+3/17/2023,Vegetables,1000,0.2
+3/17/2023,General items(Lays),4000,0.1
+3/17/2023,fast food,4500,0.25
+3/17/2023,fruit juice,1200,0.05
+3/17/2023,tiffins,3000,0.25
+3/18/2023,Fruits,1500,0.2
+3/18/2023,Dairy,1500,0.05
+3/18/2023,Groceries,3000,0.2
+3/18/2023,Dry Fruits,975,0.2
+3/18/2023,Snacks,4500,0.35
+3/18/2023,Cold drinks,3000,0.05
+3/18/2023,Vegetables,1500,0.2
+3/18/2023,General items(Lays),6000,0.1
+3/18/2023,fast food,6750,0.25
+3/18/2023,fruit juice,1800,0.05
+3/18/2023,tiffins,4500,0.25
+3/19/2023,Fruits,1500,0.2
+3/19/2023,Dairy,1500,0.05
+3/19/2023,Groceries,3000,0.2
+3/19/2023,Dry Fruits,975,0.2
+3/19/2023,Snacks,4500,0.35
+3/19/2023,Cold drinks,3000,0.05
+3/19/2023,Vegetables,1500,0.2
+3/19/2023,General items(Lays),6000,0.1
+3/19/2023,fast food,6750,0.25
+3/19/2023,fruit juice,1800,0.05
+3/19/2023,tiffins,4500,0.25
+3/20/2023,Fruits,1000,0.2
+3/20/2023,Dairy,1000,0.05
+3/20/2023,Groceries,2000,0.2
+3/20/2023,Dry Fruits,650,0.2
+3/20/2023,Snacks,3000,0.35
+3/20/2023,Cold drinks,2000,0.05
+3/20/2023,Vegetables,1000,0.2
+3/20/2023,General items(Lays),4000,0.1
+3/20/2023,fast food,4500,0.25
+3/20/2023,fruit juice,1200,0.05
+3/20/2023,tiffins,3000,0.25
+3/21/2023,Fruits,1000,0.2
+3/21/2023,Dairy,1000,0.05
+3/21/2023,Groceries,2000,0.2
+3/21/2023,Dry Fruits,650,0.2
+3/21/2023,Snacks,3000,0.35
+3/21/2023,Cold drinks,2000,0.05
+3/21/2023,Vegetables,1000,0.2
+3/21/2023,General items(Lays),4000,0.1
+3/21/2023,fast food,4500,0.25
+3/21/2023,fruit juice,1200,0.05
+3/21/2023,tiffins,3000,0.25
+3/22/2023,Fruits,1000,0.2
+3/22/2023,Dairy,1000,0.05
+3/22/2023,Groceries,2000,0.2
+3/22/2023,Dry Fruits,650,0.2
+3/22/2023,Snacks,3000,0.35
+3/22/2023,Cold drinks,2000,0.05
+3/22/2023,Vegetables,1000,0.2
+3/22/2023,General items(Lays),4000,0.1
+3/22/2023,fast food,4500,0.25
+3/22/2023,fruit juice,1200,0.05
+3/22/2023,tiffins,3000,0.25
+3/23/2023,Fruits,1000,0.2
+3/23/2023,Dairy,1000,0.05
+3/23/2023,Groceries,2000,0.2
+3/23/2023,Dry Fruits,650,0.2
+3/23/2023,Snacks,3000,0.35
+3/23/2023,Cold drinks,2000,0.05
+3/23/2023,Vegetables,1000,0.2
+3/23/2023,General items(Lays),4000,0.1
+3/23/2023,fast food,4500,0.25
+3/23/2023,fruit juice,1200,0.05
+3/23/2023,tiffins,3000,0.25
+3/24/2023,Fruits,1000,0.2
+3/24/2023,Dairy,1000,0.05
+3/24/2023,Groceries,2000,0.2
+3/24/2023,Dry Fruits,650,0.2
+3/24/2023,Snacks,3000,0.35
+3/24/2023,Cold drinks,2000,0.05
+3/24/2023,Vegetables,1000,0.2
+3/24/2023,General items(Lays),4000,0.1
+3/24/2023,fast food,4500,0.25
+3/24/2023,fruit juice,1200,0.05
+3/24/2023,tiffins,3000,0.25
+3/25/2023,Fruits,1500,0.2
+3/25/2023,Dairy,1500,0.05
+3/25/2023,Groceries,3000,0.2
+3/25/2023,Dry Fruits,975,0.2
+3/25/2023,Snacks,4500,0.35
+3/25/2023,Cold drinks,3000,0.05
+3/25/2023,Vegetables,1500,0.2
+3/25/2023,General items(Lays),6000,0.1
+3/25/2023,fast food,6750,0.25
+3/25/2023,fruit juice,1800,0.05
+3/25/2023,tiffins,4500,0.25
+3/26/2023,Fruits,1500,0.2
+3/26/2023,Dairy,1500,0.05
+3/26/2023,Groceries,3000,0.2
+3/26/2023,Dry Fruits,975,0.2
+3/26/2023,Snacks,4500,0.35
+3/26/2023,Cold drinks,3000,0.05
+3/26/2023,Vegetables,1500,0.2
+3/26/2023,General items(Lays),6000,0.1
+3/26/2023,fast food,6750,0.25
+3/26/2023,fruit juice,1800,0.05
+3/26/2023,tiffins,4500,0.25
+3/27/2023,Fruits,1000,0.2
+3/27/2023,Dairy,1000,0.05
+3/27/2023,Groceries,2000,0.2
+3/27/2023,Dry Fruits,650,0.2
+3/27/2023,Snacks,3000,0.35
+3/27/2023,Cold drinks,2000,0.05
+3/27/2023,Vegetables,1000,0.2
+3/27/2023,General items(Lays),4000,0.1
+3/27/2023,fast food,4500,0.25
+3/27/2023,fruit juice,1200,0.05
+3/27/2023,tiffins,3000,0.25
+3/28/2023,Fruits,1000,0.2
+3/28/2023,Dairy,1000,0.05
+3/28/2023,Groceries,2000,0.2
+3/28/2023,Dry Fruits,650,0.2
+3/28/2023,Snacks,3000,0.35
+3/28/2023,Cold drinks,2000,0.05
+3/28/2023,Vegetables,1000,0.2
+3/28/2023,General items(Lays),4000,0.1
+3/28/2023,fast food,4500,0.25
+3/28/2023,fruit juice,1200,0.05
+3/28/2023,tiffins,3000,0.25
+3/29/2023,Fruits,1000,0.2
+3/29/2023,Dairy,1000,0.05
+3/29/2023,Groceries,2000,0.2
+3/29/2023,Dry Fruits,650,0.2
+3/29/2023,Snacks,3000,0.35
+3/29/2023,Cold drinks,2000,0.05
+3/29/2023,Vegetables,1000,0.2
+3/29/2023,General items(Lays),4000,0.1
+3/29/2023,fast food,4500,0.25
+3/29/2023,fruit juice,1200,0.05
+3/29/2023,tiffins,3000,0.25
+3/30/2023,Fruits,1000,0.2
+3/30/2023,Dairy,1000,0.05
+3/30/2023,Groceries,2000,0.2
+3/30/2023,Dry Fruits,650,0.2
+3/30/2023,Snacks,3000,0.35
+3/30/2023,Cold drinks,2000,0.05
+3/30/2023,Vegetables,1000,0.2
+3/30/2023,General items(Lays),4000,0.1
+3/30/2023,fast food,4500,0.25
+3/30/2023,fruit juice,1200,0.05
+3/30/2023,tiffins,3000,0.25
+3/31/2023,Fruits,1000,0.2
+3/31/2023,Dairy,1000,0.05
+3/31/2023,Groceries,2000,0.2
+3/31/2023,Dry Fruits,650,0.2
+3/31/2023,Snacks,3000,0.35
+3/31/2023,Cold drinks,2000,0.05
+3/31/2023,Vegetables,1000,0.2
+3/31/2023,General items(Lays),4000,0.1
+3/31/2023,fast food,4500,0.25
+3/31/2023,fruit juice,1200,0.05
+3/31/2023,tiffins,3000,0.25
+4/1/2023,Fruits,1500,0.2
+4/1/2023,Dairy,1500,0.05
+4/1/2023,Groceries,3000,0.2
+4/1/2023,Dry Fruits,975,0.2
+4/1/2023,Snacks,4500,0.35
+4/1/2023,Cold drinks,3000,0.05
+4/1/2023,Vegetables,1500,0.2
+4/1/2023,General items(Lays),6000,0.1
+4/1/2023,fast food,6750,0.25
+4/1/2023,fruit juice,1800,0.05
+4/1/2023,tiffins,4500,0.25
+4/2/2023,Fruits,1500,0.2
+4/2/2023,Dairy,1500,0.05
+4/2/2023,Groceries,3000,0.2
+4/2/2023,Dry Fruits,975,0.2
+4/2/2023,Snacks,4500,0.35
+4/2/2023,Cold drinks,3000,0.05
+4/2/2023,Vegetables,1500,0.2
+4/2/2023,General items(Lays),6000,0.1
+4/2/2023,fast food,6750,0.25
+4/2/2023,fruit juice,1800,0.05
+4/2/2023,tiffins,4500,0.25
+4/3/2023,Fruits,1000,0.2
+4/3/2023,Dairy,1000,0.05
+4/3/2023,Groceries,2000,0.2
+4/3/2023,Dry Fruits,650,0.2
+4/3/2023,Snacks,3000,0.35
+4/3/2023,Cold drinks,2000,0.05
+4/3/2023,Vegetables,1000,0.2
+4/3/2023,General items(Lays),4000,0.1
+4/3/2023,fast food,4500,0.25
+4/3/2023,fruit juice,1200,0.05
+4/3/2023,tiffins,3000,0.25
+4/4/2023,Fruits,1000,0.2
+4/4/2023,Dairy,1000,0.05
+4/4/2023,Groceries,2000,0.2
+4/4/2023,Dry Fruits,650,0.2
+4/4/2023,Snacks,3000,0.35
+4/4/2023,Cold drinks,2000,0.05
+4/4/2023,Vegetables,1000,0.2
+4/4/2023,General items(Lays),4000,0.1
+4/4/2023,fast food,4500,0.25
+4/4/2023,fruit juice,1200,0.05
+4/4/2023,tiffins,3000,0.25
+4/5/2023,Fruits,1000,0.2
+4/5/2023,Dairy,1000,0.05
+4/5/2023,Groceries,2000,0.2
+4/5/2023,Dry Fruits,650,0.2
+4/5/2023,Snacks,3000,0.35
+4/5/2023,Cold drinks,2000,0.05
+4/5/2023,Vegetables,1000,0.2
+4/5/2023,General items(Lays),4000,0.1
+4/5/2023,fast food,4500,0.25
+4/5/2023,fruit juice,1200,0.05
+4/5/2023,tiffins,3000,0.25
+4/6/2023,Fruits,1000,0.2
+4/6/2023,Dairy,1000,0.05
+4/6/2023,Groceries,2000,0.2
+4/6/2023,Dry Fruits,650,0.2
+4/6/2023,Snacks,3000,0.35
+4/6/2023,Cold drinks,2000,0.05
+4/6/2023,Vegetables,1000,0.2
+4/6/2023,General items(Lays),4000,0.1
+4/6/2023,fast food,4500,0.25
+4/6/2023,fruit juice,1200,0.05
+4/6/2023,tiffins,3000,0.25
+4/7/2023,Fruits,1000,0.2
+4/7/2023,Dairy,1000,0.05
+4/7/2023,Groceries,2000,0.2
+4/7/2023,Dry Fruits,650,0.2
+4/7/2023,Snacks,3000,0.35
+4/7/2023,Cold drinks,2000,0.05
+4/7/2023,Vegetables,1000,0.2
+4/7/2023,General items(Lays),4000,0.1
+4/7/2023,fast food,4500,0.25
+4/7/2023,fruit juice,1200,0.05
+4/7/2023,tiffins,3000,0.25
+4/8/2023,Fruits,1500,0.2
+4/8/2023,Dairy,1500,0.05
+4/8/2023,Groceries,3000,0.2
+4/8/2023,Dry Fruits,975,0.2
+4/8/2023,Snacks,4500,0.35
+4/8/2023,Cold drinks,3000,0.05
+4/8/2023,Vegetables,1500,0.2
+4/8/2023,General items(Lays),6000,0.1
+4/8/2023,fast food,6750,0.25
+4/8/2023,fruit juice,1800,0.05
+4/8/2023,tiffins,4500,0.25
+4/9/2023,Fruits,1500,0.2
+4/9/2023,Dairy,1500,0.05
+4/9/2023,Groceries,3000,0.2
+4/9/2023,Dry Fruits,975,0.2
+4/9/2023,Snacks,4500,0.35
+4/9/2023,Cold drinks,3000,0.05
+4/9/2023,Vegetables,1500,0.2
+4/9/2023,General items(Lays),6000,0.1
+4/9/2023,fast food,6750,0.25
+4/9/2023,fruit juice,1800,0.05
+4/9/2023,tiffins,4500,0.25
+4/10/2023,Fruits,1000,0.2
+4/10/2023,Dairy,1000,0.05
+4/10/2023,Groceries,2000,0.2
+4/10/2023,Dry Fruits,650,0.2
+4/10/2023,Snacks,3000,0.35
+4/10/2023,Cold drinks,2000,0.05
+4/10/2023,Vegetables,1000,0.2
+4/10/2023,General items(Lays),4000,0.1
+4/10/2023,fast food,4500,0.25
+4/10/2023,fruit juice,1200,0.05
+4/10/2023,tiffins,3000,0.25
+4/11/2023,Fruits,1000,0.2
+4/11/2023,Dairy,1000,0.05
+4/11/2023,Groceries,2000,0.2
+4/11/2023,Dry Fruits,650,0.2
+4/11/2023,Snacks,3000,0.35
+4/11/2023,Cold drinks,2000,0.05
+4/11/2023,Vegetables,1000,0.2
+4/11/2023,General items(Lays),4000,0.1
+4/11/2023,fast food,4500,0.25
+4/11/2023,fruit juice,1200,0.05
+4/11/2023,tiffins,3000,0.25
+4/12/2023,Fruits,1000,0.2
+4/12/2023,Dairy,1000,0.05
+4/12/2023,Groceries,2000,0.2
+4/12/2023,Dry Fruits,650,0.2
+4/12/2023,Snacks,3000,0.35
+4/12/2023,Cold drinks,2000,0.05
+4/12/2023,Vegetables,1000,0.2
+4/12/2023,General items(Lays),4000,0.1
+4/12/2023,fast food,4500,0.25
+4/12/2023,fruit juice,1200,0.05
+4/12/2023,tiffins,3000,0.25
+4/13/2023,Fruits,1000,0.2
+4/13/2023,Dairy,1000,0.05
+4/13/2023,Groceries,2000,0.2
+4/13/2023,Dry Fruits,650,0.2
+4/13/2023,Snacks,3000,0.35
+4/13/2023,Cold drinks,2000,0.05
+4/13/2023,Vegetables,1000,0.2
+4/13/2023,General items(Lays),4000,0.1
+4/13/2023,fast food,4500,0.25
+4/13/2023,fruit juice,1200,0.05
+4/13/2023,tiffins,3000,0.25
+4/14/2023,Fruits,1000,0.2
+4/14/2023,Dairy,1000,0.05
+4/14/2023,Groceries,2000,0.2
+4/14/2023,Dry Fruits,650,0.2
+4/14/2023,Snacks,3000,0.35
+4/14/2023,Cold drinks,2000,0.05
+4/14/2023,Vegetables,1000,0.2
+4/14/2023,General items(Lays),4000,0.1
+4/14/2023,fast food,4500,0.25
+4/14/2023,fruit juice,1200,0.05
+4/14/2023,tiffins,3000,0.25
+4/15/2023,Fruits,1500,0.2
+4/15/2023,Dairy,1500,0.05
+4/15/2023,Groceries,3000,0.2
+4/15/2023,Dry Fruits,975,0.2
+4/15/2023,Snacks,4500,0.35
+4/15/2023,Cold drinks,3000,0.05
+4/15/2023,Vegetables,1500,0.2
+4/15/2023,General items(Lays),6000,0.1
+4/15/2023,fast food,6750,0.25
+4/15/2023,fruit juice,1800,0.05
+4/15/2023,tiffins,4500,0.25
+4/16/2023,Fruits,1500,0.2
+4/16/2023,Dairy,1500,0.05
+4/16/2023,Groceries,3000,0.2
+4/16/2023,Dry Fruits,975,0.2
+4/16/2023,Snacks,4500,0.35
+4/16/2023,Cold drinks,3000,0.05
+4/16/2023,Vegetables,1500,0.2
+4/16/2023,General items(Lays),6000,0.1
+4/16/2023,fast food,6750,0.25
+4/16/2023,fruit juice,1800,0.05
+4/16/2023,tiffins,4500,0.25
+4/17/2023,Fruits,1000,0.2
+4/17/2023,Dairy,1000,0.05
+4/17/2023,Groceries,2000,0.2
+4/17/2023,Dry Fruits,650,0.2
+4/17/2023,Snacks,3000,0.35
+4/17/2023,Cold drinks,2000,0.05
+4/17/2023,Vegetables,1000,0.2
+4/17/2023,General items(Lays),4000,0.1
+4/17/2023,fast food,4500,0.25
+4/17/2023,fruit juice,1200,0.05
+4/17/2023,tiffins,3000,0.25
+4/18/2023,Fruits,1000,0.2
+4/18/2023,Dairy,1000,0.05
+4/18/2023,Groceries,2000,0.2
+4/18/2023,Dry Fruits,650,0.2
+4/18/2023,Snacks,3000,0.35
+4/18/2023,Cold drinks,2000,0.05
+4/18/2023,Vegetables,1000,0.2
+4/18/2023,General items(Lays),4000,0.1
+4/18/2023,fast food,4500,0.25
+4/18/2023,fruit juice,1200,0.05
+4/18/2023,tiffins,3000,0.25
+4/19/2023,Fruits,1000,0.2
+4/19/2023,Dairy,1000,0.05
+4/19/2023,Groceries,2000,0.2
+4/19/2023,Dry Fruits,650,0.2
+4/19/2023,Snacks,3000,0.35
+4/19/2023,Cold drinks,2000,0.05
+4/19/2023,Vegetables,1000,0.2
+4/19/2023,General items(Lays),4000,0.1
+4/19/2023,fast food,4500,0.25
+4/19/2023,fruit juice,1200,0.05
+4/19/2023,tiffins,3000,0.25
+4/20/2023,Fruits,1000,0.2
+4/20/2023,Dairy,1000,0.05
+4/20/2023,Groceries,2000,0.2
+4/20/2023,Dry Fruits,650,0.2
+4/20/2023,Snacks,3000,0.35
+4/20/2023,Cold drinks,2000,0.05
+4/20/2023,Vegetables,1000,0.2
+4/20/2023,General items(Lays),4000,0.1
+4/20/2023,fast food,4500,0.25
+4/20/2023,fruit juice,1200,0.05
+4/20/2023,tiffins,3000,0.25
+4/21/2023,Fruits,1000,0.2
+4/21/2023,Dairy,1000,0.05
+4/21/2023,Groceries,2000,0.2
+4/21/2023,Dry Fruits,650,0.2
+4/21/2023,Snacks,3000,0.35
+4/21/2023,Cold drinks,2000,0.05
+4/21/2023,Vegetables,1000,0.2
+4/21/2023,General items(Lays),4000,0.1
+4/21/2023,fast food,4500,0.25
+4/21/2023,fruit juice,1200,0.05
+4/21/2023,tiffins,3000,0.25
+4/22/2023,Fruits,1500,0.2
+4/22/2023,Dairy,1500,0.05
+4/22/2023,Groceries,3000,0.2
+4/22/2023,Dry Fruits,975,0.2
+4/22/2023,Snacks,4500,0.35
+4/22/2023,Cold drinks,3000,0.05
+4/22/2023,Vegetables,1500,0.2
+4/22/2023,General items(Lays),6000,0.1
+4/22/2023,fast food,6750,0.25
+4/22/2023,fruit juice,1800,0.05
+4/22/2023,tiffins,4500,0.25
+4/23/2023,Fruits,1500,0.2
+4/23/2023,Dairy,1500,0.05
+4/23/2023,Groceries,3000,0.2
+4/23/2023,Dry Fruits,975,0.2
+4/23/2023,Snacks,4500,0.35
+4/23/2023,Cold drinks,3000,0.05
+4/23/2023,Vegetables,1500,0.2
+4/23/2023,General items(Lays),6000,0.1
+4/23/2023,fast food,6750,0.25
+4/23/2023,fruit juice,1800,0.05
+4/23/2023,tiffins,4500,0.25
+4/24/2023,Fruits,1000,0.2
+4/24/2023,Dairy,1000,0.05
+4/24/2023,Groceries,2000,0.2
+4/24/2023,Dry Fruits,650,0.2
+4/24/2023,Snacks,3000,0.35
+4/24/2023,Cold drinks,2000,0.05
+4/24/2023,Vegetables,1000,0.2
+4/24/2023,General items(Lays),4000,0.1
+4/24/2023,fast food,4500,0.25
+4/24/2023,fruit juice,1200,0.05
+4/24/2023,tiffins,3000,0.25
+4/25/2023,Fruits,1000,0.2
+4/25/2023,Dairy,1000,0.05
+4/25/2023,Groceries,2000,0.2
+4/25/2023,Dry Fruits,650,0.2
+4/25/2023,Snacks,3000,0.35
+4/25/2023,Cold drinks,2000,0.05
+4/25/2023,Vegetables,1000,0.2
+4/25/2023,General items(Lays),4000,0.1
+4/25/2023,fast food,4500,0.25
+4/25/2023,fruit juice,1200,0.05
+4/25/2023,tiffins,3000,0.25
+4/26/2023,Fruits,1000,0.2
+4/26/2023,Dairy,1000,0.05
+4/26/2023,Groceries,2000,0.2
+4/26/2023,Dry Fruits,650,0.2
+4/26/2023,Snacks,3000,0.35
+4/26/2023,Cold drinks,2000,0.05
+4/26/2023,Vegetables,1000,0.2
+4/26/2023,General items(Lays),4000,0.1
+4/26/2023,fast food,4500,0.25
+4/26/2023,fruit juice,1200,0.05
+4/26/2023,tiffins,3000,0.25
+4/27/2023,Fruits,1000,0.2
+4/27/2023,Dairy,1000,0.05
+4/27/2023,Groceries,2000,0.2
+4/27/2023,Dry Fruits,650,0.2
+4/27/2023,Snacks,3000,0.35
+4/27/2023,Cold drinks,2000,0.05
+4/27/2023,Vegetables,1000,0.2
+4/27/2023,General items(Lays),4000,0.1
+4/27/2023,fast food,4500,0.25
+4/27/2023,fruit juice,1200,0.05
+4/27/2023,tiffins,3000,0.25
+4/28/2023,Fruits,1000,0.2
+4/28/2023,Dairy,1000,0.05
+4/28/2023,Groceries,2000,0.2
+4/28/2023,Dry Fruits,650,0.2
+4/28/2023,Snacks,3000,0.35
+4/28/2023,Cold drinks,2000,0.05
+4/28/2023,Vegetables,1000,0.2
+4/28/2023,General items(Lays),4000,0.1
+4/28/2023,fast food,4500,0.25
+4/28/2023,fruit juice,1200,0.05
+4/28/2023,tiffins,3000,0.25
+4/29/2023,Fruits,1500,0.2
+4/29/2023,Dairy,1500,0.05
+4/29/2023,Groceries,3000,0.2
+4/29/2023,Dry Fruits,975,0.2
+4/29/2023,Snacks,4500,0.35
+4/29/2023,Cold drinks,3000,0.05
+4/29/2023,Vegetables,1500,0.2
+4/29/2023,General items(Lays),6000,0.1
+4/29/2023,fast food,6750,0.25
+4/29/2023,fruit juice,1800,0.05
+4/29/2023,tiffins,4500,0.25
+4/30/2023,Fruits,1500,0.2
+4/30/2023,Dairy,1500,0.05
+4/30/2023,Groceries,3000,0.2
+4/30/2023,Dry Fruits,975,0.2
+4/30/2023,Snacks,4500,0.35
+4/30/2023,Cold drinks,3000,0.05
+4/30/2023,Vegetables,1500,0.2
+4/30/2023,General items(Lays),6000,0.1
+4/30/2023,fast food,6750,0.25
+4/30/2023,fruit juice,1800,0.05
+4/30/2023,tiffins,4500,0.25
